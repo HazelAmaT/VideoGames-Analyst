@@ -4,7 +4,7 @@
 <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamEydHluN2E2bGtvOXg4ZHZid3JiNzZ2M2hieDI5Z2R0d2Y3aHF0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NqyYi5uEWJEsIUD8mv/giphy.gif" width = "200" height = "200">
 <p\>
   
-VideoGames-Analyst
+VideoGames-Analyst \n
 Caso de estudio.
 La tienda online Ice vende videojuegos por todo el mundo. Las reseñas de usuarios y expertos, los géneros, las plataformas (por ejemplo, Xbox o PlayStation) y los datos históricos sobre las ventas de juegos están disponibles en fuentes abiertas. Tienes que identificar patrones que determinen si un juego tiene éxito o no. Esto te permitirá detectar proyectos prometedores y planificar campañas publicitarias.
 
